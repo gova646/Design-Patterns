@@ -15,5 +15,8 @@
     Abstracts the creation of objects from clients.
     Client should be able to pass the name of the type of object which he neeeds, and need not worry about the implementation of creation of objects.
 
-
+3. Builder Pattern
+    Used for creation of complex objects.
+    Avoids Telescoping constructors.
+    Increases readability, Step by step way to build complex objects.
     
