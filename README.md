@@ -19,4 +19,13 @@
     Used for creation of complex objects.
     Avoids Telescoping constructors.
     Increases readability, Step by step way to build complex objects.
+
+"# Behavioral Design Patterns"
+1. Observer Pattern
+    Decouples the subject and observer.
+    Promotes Consistency.
+    Improves Reusability and extensibility.
+    Supports dynamic and runtime changes.(For example in a chat app users can join or leave a group dynamically).
+
+
     
