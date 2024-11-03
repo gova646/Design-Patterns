@@ -23,6 +23,12 @@
     Avoids Telescoping constructors.
     Increases readability, Step by step way to build complex objects.
 
+"4. Abstract Factory Pattern"
+
+    The Abstract Factory Pattern is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+    It is especially useful in situations where you want to build different configurations of a set of objects, or when you want the flexibility to change the product families during runtime.
+    Supportd Open/Closed Principle
+
 "# Behavioral Design Patterns"
 
 "1. Observer Pattern"
