@@ -38,5 +38,14 @@
     Improves Reusability and extensibility.
     Supports dynamic and runtime changes.(For example in a chat app users can join or leave a group dynamically).
 
+"# Structural Design Patterns"
+
+"1. Adapter Design Pattern"
+
+    The Adapter Design Pattern is a structural pattern that allows incompatible interfaces to work together by converting the interface of a class into another interface that a client expects. 
+    This pattern is commonly used when integrating new components or legacy systems with existing code, making the interaction seamless without altering the involved classes.
+    Enables interoperability between incompatible interfaces.
+    Facilitates Legacy code integrations.
+
 
     
